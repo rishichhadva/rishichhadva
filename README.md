@@ -44,7 +44,7 @@
 <!-- Skills Stack -->
 
 <div align="center">
-  <h2><img src="https://media.giphy.com/media/r1Ek7lP8mXKAZHhIWp/giphy.gif" width="20"> Skills Stack</h2>
+  <h2><img src="https://media.giphy.com/media/r1Ek7lP8mXKAZHhIWp/giphy.gif" width="40"> Skills Stack</h2>
 
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
