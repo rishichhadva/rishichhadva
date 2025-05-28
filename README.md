@@ -61,7 +61,6 @@
   ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3)
   ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
   ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
-  ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B)
   ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
   ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
   ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
