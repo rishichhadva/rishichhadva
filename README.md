@@ -15,7 +15,7 @@
 
 
 <h3 align="center">
-🌱 I’m currently specializing in Full Stack Development... 
+🌱 I’m currently specializing in Full Stack Development.
 </h3>
 
 <h1 align="center">
@@ -56,7 +56,6 @@
   ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
   ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-  ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 </div>
 
 
