@@ -1,9 +1,4 @@
 
-
-
-
-
-
 <h3 align="center">
  Hey there! Rishi here 👋
 </h3>
@@ -57,59 +52,3 @@
   ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-<h2 align="center"> 📈 &nbsp;My GitHub History!</h2>
-
-
-<br>
-
-<div align="center">
-  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=basedharsh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=basedharsh&layout=compact&langs_count=8&theme=algolia"/>
-<br>
-<br>
-
-</div>
-
-
-<!-- ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=basedharsh&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basedharsh&layout=compact)](https://github.com/basedharsh) 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=basedharsh&theme=tokyonight&hide_border=true&border_radius=4.7" alt="harsh" width="50%"   />
-<img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basedharsh&theme=2077" alt="harsh" width="50%"   />
-</div>
-
-
-
-<!-- <p align="center">
- <img src="https://metrics.lecoq.io/basedharsh" alt="harshu"/>  
-</p>
- -->
-
-
-
-
-<!-- 
-<img  margin-top="-50px" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
-
-![Snake animation](https://github.com/basedharsh/basedharsh/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p> -->
