@@ -15,7 +15,7 @@
 
 
 <h3 align="center">
-🌱 I’m currently trying to learn Web Dev... 
+🌱 I’m currently specializing in Full Stack Development... 
 </h3>
 
 <h1 align="center">
@@ -46,22 +46,15 @@
 <div align="center">
   <h2><img src="https://media.giphy.com/media/r1Ek7lP8mXKAZHhIWp/giphy.gif" width="40"> Skills Stack</h2>
 
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-  ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
-  ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
-  ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-  ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter)
-  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-  ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
   ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
   ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3)
   ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-  ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+  ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+  ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
   ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 </div>
