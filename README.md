@@ -16,7 +16,6 @@
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
-<!-- <img  margin-top="-50px" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />  -->
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rishi-shah-chhadva-8a0545258/">
@@ -33,7 +32,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/rishichhadva/count.svg" />
+  <img src="https://profile-counter.deno.dev/:rishichhadva:/count.svg" alt="Key:: Visitor's Count" />
 </p>
 
 <!-- Skills Stack -->
